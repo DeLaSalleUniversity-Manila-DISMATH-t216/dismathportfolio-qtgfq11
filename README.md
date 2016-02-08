@@ -41,3 +41,13 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - Direct proof, and indirect proof such as proof by contraposition and proof by contradiction, vacious and trivial proof, proof by equivalence were introduced to us.
 - Direct proof has two steps: (1) Assume that p is true (p→q);
 (2) Show that q is also true based on (1)
+
+#week 5
+- First day of February was spent with DISMATH. On this day, we were introduced to the next method of proof, Contraposition. Contraposition can be done by first assuming that ¬q = T. Second is, show that ¬p is also true, based on your first assumption.
+- Some examples were shown to us like proving that if n is an integer and 3n+2 is odd, then n is odd. We need to prove that p→q=T.
+- The next method of proof which is Vacuous proof was also taught to us. This is when you prove that p is false because we know that when p is false, then p→q is true.
+- Trivial is the partner of Vacuous proof. This is where you prove that q is true, because when q is true, then p→q is true.
+- Next method of proof is Proof by Contradiction. It is done by proving that ¬(premise) is true. Then showing that it will end up with a contradiction.
+- On that day, I was also reviewed with what a rational number is.
+- We were also taught with Negation of Implication, and Contradictions and Implications.
+- The last method of proof was taught too, which is the Proof by Equivalence. This is where you prove a biconditional statement. To prove that p⇔q,  then you must prove that p→q and q→p are both true.
