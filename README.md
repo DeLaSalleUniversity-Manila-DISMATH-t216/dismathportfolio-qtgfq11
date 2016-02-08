@@ -51,3 +51,6 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - On that day, I was also reviewed with what a rational number is.
 - We were also taught with Negation of Implication, and Contradictions and Implications.
 - The last method of proof was taught too, which is the Proof by Equivalence. This is where you prove a biconditional statement. To prove that p⇔q,  then you must prove that p→q and q→p are both true.
+
+#week 6
+- The first meeting for this week is the celebration of the Chinese New Year. No classes for this day.
