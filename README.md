@@ -53,4 +53,6 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - The last method of proof was taught too, which is the Proof by Equivalence. This is where you prove a biconditional statement. To prove that p⇔q,  then you must prove that p→q and q→p are both true.
 
 #Week 6
-- The first meeting for this week is the celebration of the Chinese New Year. No classes for this day.
+- The first meeting for this week is the celebration of the Chinese New Year. No classes for this day
+- Proving was continued on our meeting for this week. More examples were given to us to make us understand more on how to prove statements and premises.
+- Mathematical induction was introduced to us. This is used when a sequence of propositions is to be proved. First step is the basis step. Prove that the first proposition is true. Next is assume that P(k)=T.
