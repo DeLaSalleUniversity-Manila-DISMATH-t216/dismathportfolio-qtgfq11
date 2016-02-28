@@ -56,3 +56,11 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - The first meeting for this week is the celebration of the Chinese New Year. No classes for this day
 - Proving was continued on our meeting for this week. More examples were given to us to make us understand more on how to prove statements and premises.
 - Mathematical induction was introduced to us. This is used when a sequence of propositions is to be proved. First step is the basis step. Prove that the first proposition is true. Next is assume that P(k)=T.
+ 
+#Week 7
+- More mathematical induction examples were given to us like, prove that P(n)=1+3+5+...+(2n+1)=n^2.
+- Summation was also discussed, and the notation was showed to us.
+- Recursive/Inductive Definition which is no longer a proof was introduced to us. There is still a basis step and a recursive step.
+- Recursive algorithm, which is an algorithm that solves a problem by reducing it to an instance of the same problem with smaller input.
+- Program correctness as well as Program Verification was taught to us.
+- Power Series was also introduced to us.
