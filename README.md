@@ -64,3 +64,15 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - Recursive algorithm, which is an algorithm that solves a problem by reducing it to an instance of the same problem with smaller input.
 - Program correctness as well as Program Verification was taught to us.
 - Power Series was also introduced to us.
+
+#Week 8
+- Functions, also called mappings or transformations was discussed to us.
+- Image and range were discussed as well. Codomain and range were also differentiated.
+- The types of functions were discussed, one-to-one function (injective), onto function (surjective), and one-to-one correspondence (bijection).
+- One-to-one function is a function that never assign the same value to two different domain elements.
+- Onto Function is a function with equal range and codomain.
+- Algorithm was introduced already. Page rank is the most famous algorithm now.
+- Pseudo code is a high-level description of an algorithm that uses the structural conventions of a programming language, but is intended for human reading.
+- Preconditions and postconditions were taught as well. Preconditions are statements that describe valid input. Postconditions are conditions that the output should satisfy.
+- The properties of algorithm are input, output, definiteness, correctness, finiteness and generality.
+- Two ways of searching algorithms were taught to us. It is the linear search sample program which is a one by one search tool, and the binary search algorithm which is a little faster than linear search.
