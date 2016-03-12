@@ -76,3 +76,10 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - Preconditions and postconditions were taught as well. Preconditions are statements that describe valid input. Postconditions are conditions that the output should satisfy.
 - The properties of algorithm are input, output, definiteness, correctness, finiteness and generality.
 - Two ways of searching algorithms were taught to us. It is the linear search sample program which is a one by one search tool, and the binary search algorithm which is a little faster than linear search.
+
+#Week 9
+- Binary search was discussed to us. We were taught how iteration is necessary for doing pseudo codes, and how it will help us to see if what we did was correct.
+- Bubble Sort Algorithm was also taught to us. This is sorting numbers according to order and it is arranged by comparing adjacent elements.
+- Insertion Sort Algorithm was also discussed. This is done by comparing the first element and the second element and if the second element is smaller, place it before the first element and so on.
+- Greedy Algorithm was discussed as well. This algorithm selects the best choice at each step.
+- Growth of Functions is also discussed. It is often described using Big-O notation.
