@@ -19,7 +19,7 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - We we're also taught on the first tool that we can use in proving which is the proof by truth table
 - The second tool, logical equivalences were also introduced to us. These laws are identity, domination, negation, double negation, idempotent, commutative, associative, distributive, DeMorgan's, and absorption.
 
-#week 3
+#Week 3
 - The discussion about logical equivalences was continued. Examples were given to us to make us understand more about the topic.
 - Quantifiers such as Existential and Universal were introduced
 - Tautology was also taught, which simply is a statement that is always true
