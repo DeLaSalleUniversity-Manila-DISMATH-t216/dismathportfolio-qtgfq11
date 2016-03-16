@@ -1,10 +1,10 @@
-# dismathportfolio-ianballeza
+ # dismathportfolio-ianballeza
 dismathportfolio-ianballeza created by Classroom for GitHub
 
-#Week 1
+#Week 1 (January 6, 2016)
 - We we're introduced to a new subject DISMATH. We were told that this subject wouldn't be focusing on so much Math and that we will be using our heads so much here.
 
-#Week 2
+#Week 2 (January 11 and 13, 2016)
 - I've learned that a proposition must be either true (1) or false (0)
 - A logical deduction is a process of reasoning from one or more statements (premises) to reach a logically certain conclusion
 - An axiom is a statement or proposition that is regarded as being established, accepted or self-evidently true
@@ -19,13 +19,13 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - We we're also taught on the first tool that we can use in proving which is the proof by truth table
 - The second tool, logical equivalences were also introduced to us. These laws are identity, domination, negation, double negation, idempotent, commutative, associative, distributive, DeMorgan's, and absorption.
 
-#Week 3
+#Week 3 (January 18 and 20, 2016)
 - The discussion about logical equivalences was continued. Examples were given to us to make us understand more about the topic.
 - Quantifiers such as Existential and Universal were introduced
 - Tautology was also taught, which simply is a statement that is always true
 - This is the week where the forum about the presidentiables and vice presidentiables was held, that is why we had only one meeting this week.
 
-#Week 4
+#Week 4 (January 25 and 27, 2016)
 - We were refreshed with the four tools that we can use for proving, the truth table, logical equivalence, quantifiers, and rules of inference
 - Validity means that all its premises and the conclusion is true, otherwise, it is a fallacy.
 - The rules of inference were taught, which are modus ponens, modus tollens, hypothetical syllogism, disjunctive syllogism, addition, simplification, conjunction, and resolution.
@@ -42,7 +42,7 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - Direct proof has two steps: (1) Assume that p is true (p→q);
 (2) Show that q is also true based on (1)
 
-#Week 5
+#Week 5 (February 1 and 3, 2016)
 - First day of February was spent with DISMATH. On this day, we were introduced to the next method of proof, Contraposition. Contraposition can be done by first assuming that ¬q = T. Second is, show that ¬p is also true, based on your first assumption.
 - Some examples were shown to us like proving that if n is an integer and 3n+2 is odd, then n is odd. We need to prove that p→q=T.
 - The next method of proof which is Vacuous proof was also taught to us. This is when you prove that p is false because we know that when p is false, then p→q is true.
@@ -52,12 +52,12 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - We were also taught with Negation of Implication, and Contradictions and Implications.
 - The last method of proof was taught too, which is the Proof by Equivalence. This is where you prove a biconditional statement. To prove that p⇔q,  then you must prove that p→q and q→p are both true.
 
-#Week 6
+#Week 6 (Febrary 8 and 10, 2016)
 - The first meeting for this week is the celebration of the Chinese New Year. No classes for this day
 - Proving was continued on our meeting for this week. More examples were given to us to make us understand more on how to prove statements and premises.
 - Mathematical induction was introduced to us. This is used when a sequence of propositions is to be proved. First step is the basis step. Prove that the first proposition is true. Next is assume that P(k)=T.
  
-#Week 7
+#Week 7 (February 15 and 17, 2016)
 - More mathematical induction examples were given to us like, prove that P(n)=1+3+5+...+(2n+1)=n^2.
 - Summation was also discussed, and the notation was showed to us.
 - Recursive/Inductive Definition which is no longer a proof was introduced to us. There is still a basis step and a recursive step.
@@ -65,7 +65,13 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - Program correctness as well as Program Verification was taught to us.
 - Power Series was also introduced to us.
 
-#Week 8
+#Week 8 (February 22 and 24, 2016)
+- The first meeting for the week was called off because of the quiz made Friday of the previous week.
+- Sets were discussed to us.
+- Set theory was introduced. Set Builder Notation was showed to us as well as the Set Identities that are somewhat similar to the Rules of Inference.
+- Subsets were discussed as well as Cardinality which is the number of elements that the set contains.
+
+#Week 9 (February 29 and March 2, 2016)
 - Functions, also called mappings or transformations was discussed to us.
 - Image and range were discussed as well. Codomain and range were also differentiated.
 - The types of functions were discussed, one-to-one function (injective), onto function (surjective), and one-to-one correspondence (bijection).
@@ -77,9 +83,18 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - The properties of algorithm are input, output, definiteness, correctness, finiteness and generality.
 - Two ways of searching algorithms were taught to us. It is the linear search sample program which is a one by one search tool, and the binary search algorithm which is a little faster than linear search.
 
-#Week 9
+#Week 10 (March 7 and 9, 2016)
 - Binary search was discussed to us. We were taught how iteration is necessary for doing pseudo codes, and how it will help us to see if what we did was correct.
 - Bubble Sort Algorithm was also taught to us. This is sorting numbers according to order and it is arranged by comparing adjacent elements.
 - Insertion Sort Algorithm was also discussed. This is done by comparing the first element and the second element and if the second element is smaller, place it before the first element and so on.
 - Greedy Algorithm was discussed as well. This algorithm selects the best choice at each step.
 - Growth of Functions is also discussed. It is often described using Big-O notation.
+
+#Week 11 (March 14 and 16, 2016)
+- More examples about Big-O notation were given to us. We now know how to find c and k for the said notation.
+- Big-Omega and Big-Theta were introduced to us as well. Big-Omega is for the lower bound. Big-Theta is for both the higher bound and lower bound. The combination of Big-O and Big-Omega.
+- Algorithm Time Complexity were also discussed to us as well as the complexity of algorithms. The different kinds of Algorithms were refreshed to us, and the drill is to find the Big-Theta of the following algorithms such as Linear, Bubble Sort, and Linear Search.
+- Division (div) and Modulo (mod) Operator were also discussed to us. Division (div) is the quotient Q, and modulo (mod) is the remainder r. It is discussed to us that r should be always greater than zero so we knew now the trick for using these operators for negative numbers.
+- The connection and the use of these operators was also discussed to us so that we wouldn't be wondering why we are discussing these.
+- We also started discussing about Cryptology, which is the study of secret messages.
+- Caesar's Encryption method was discussed to us which is done by shifting each letter three letters forward in the alphabet to make it secret. For example, Caesar's Encryption for DLSU is GOVX.
