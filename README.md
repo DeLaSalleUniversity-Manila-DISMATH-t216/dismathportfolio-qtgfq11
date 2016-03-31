@@ -98,3 +98,15 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - The connection and the use of these operators was also discussed to us so that we wouldn't be wondering why we are discussing these.
 - We also started discussing about Cryptology, which is the study of secret messages.
 - Caesar's Encryption method was discussed to us which is done by shifting each letter three letters forward in the alphabet to make it secret. For example, Caesar's Encryption for DLSU is GOVX.
+ 
+#Week 12 (March 21 and 23, 2016)
+- No classes for this week, call off for Quiz 2 and Holy Week break.
+
+#Week 13 (March 28 and 30, 2016)
+- Graph Theory was introduced to us. Graphs are defined as discrete structures consisting of vertices and edges that connect these vertices.
+- Its applications are for Networks, Job assignments, representing computational models, telephone network, social network and many more.
+- The degree of the vertex in an undirected graph is the number of edges incident with it, except that a loop at a vertex contributes twice to the degree of the vertex.
+- Hand Shaking Theorem was also discussed as well as Subgraph which has the same concept as subset.
+- Euler Circuit and Path was discussed too, a Euler Circuit is where you can pass on every edge or bridge only once and get back to the starting node while a Euler path is simply just passing on every edge once not necessarily returning on the starting node. All of Euler Circuits are Euler Paths as well but NOT all Euler Paths are Euler Circuits...
+- Hamilton Paths and Circuits are discussed as well. The difference with Euler is that, this time it is every node that you need to pass once only, and not necessarily passing on all edges or bridges. Path is simply passing on all nodes only once and a circuit, you need to return to where you started.
+- Matrices of Graphs, Isomorphism of Graphs, and Euler's Formula are added as well. Euler's formula goes like this, r = e - v + 2.
