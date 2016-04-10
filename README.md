@@ -1,4 +1,4 @@
- # dismathportfolio-ianballeza
+#dismathportfolio-ianballeza
 dismathportfolio-ianballeza created by Classroom for GitHub
 
 #Week 1 (January 6, 2016)
@@ -110,3 +110,25 @@ dismathportfolio-ianballeza created by Classroom for GitHub
 - Euler Circuit and Path was discussed too, a Euler Circuit is where you can pass on every edge or bridge only once and get back to the starting node while a Euler path is simply just passing on every edge once not necessarily returning on the starting node. All of Euler Circuits are Euler Paths as well but NOT all Euler Paths are Euler Circuits...
 - Hamilton Paths and Circuits are discussed as well. The difference with Euler is that, this time it is every node that you need to pass once only, and not necessarily passing on all edges or bridges. Path is simply passing on all nodes only once and a circuit, you need to return to where you started.
 - Matrices of Graphs, Isomorphism of Graphs, and Euler's Formula are added as well. Euler's formula goes like this, r = e - v + 2.
+ 
+#Week 14 (April 4 and 6, 2016)
+- This is the last week of our DISMATH class.
+- Petersen Graph was shown to us. We discussed whether it is planar or not.
+- Homeomorphic means that the two graphs are similar graphs derived from elementary subdivision by deleting node and then recconecting it.
+- Colored Graphs were taught as well. Coloring a simple graph is the assignment of a color to each vertex of the graph so that no two adjacent vertices are assigned the same color.
+- Four Color Theorem was discussed. This is where the chromatic number of a planar graph is no greater than four. The chromatic number of a graph is the least number of colors needed for a coloring of this graph.
+- Graph coloring was also shown to us and how four color theorem is applied to graphs.
+- A tree is a connected undirected graph with no simple circuits. The end of trees are the leaves, which has no children.
+- There is a theorem that an undirected graph is a tree if and only if there is a unique simple path between any two of its vertices.
+- A rooted tree is a tree in which one vertex has been designated as the root and every edge is directed away from the root.
+- An ordered rooted tree on the other hand is a rooteed tree where the children of each internal vertex are ordered.
+- We also learned some properties of trees. (1) A tree with n vertices has n-1 edges. (2) A full m-ary three with i internal vertices contains n = mi + 1 vertices. (3) A full m-ary tree with (i) n vertices has i = (n-1)/m internal vertices and l = [(m-1)n+1]/m leaves, (ii) i internal vertices has n = mi + 1 vertices and l = (m-1)i + 1 leaves, (iii) l leaves has n = (ml - 1)/(m -1) vertices and i = (l-1)/(m-1) internal vertices.
+- Binary Search Tree was shown as well as Tree Example-Linux Directory.
+- Modeling Computation was discussed to us.
+- Kasparov was introduced to us as well as IBM's Deep Blue and Deep Blue Junior. Kasparov is a Chess Grandmaster and Deep Blue is a computer made to play chess.
+- Structures in models of computation include grammars, finite-state machines, and turing machines.
+- Language and Grammars were discussed on how they are important to computers.
+- Formal languages include English, Spanish, French and many more. Programming languages include Pascal, Prolog, C, and Java. Grammars on the other hand are extremely important in the construction and theory of compilers.
+- Compiler is a program that reads a program written in a source language and translate it into an equivalent program in a target language.
+- A common way to talk about words, numbers, pairs of words, and many more is by representing them as strings. To define strings, we start with an alphabet, which is a finite set of symbols.
+- Automata theory was discussed as well. It is where (input,output) is shown through table which is the state diagram and by graph.
